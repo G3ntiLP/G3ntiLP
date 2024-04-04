@@ -8,7 +8,7 @@
 - I’m interested in video games, but essentially interested in having fun with whatever I can interact with.
 
 ## Technologies
-- Programming languages: HTML, CSS, JavaScript, a tad bit of NodeJS, new to Python, C, Java
+- Programming languages: HTML, CSS, JavaScript, C, Java a tad bit of NodeJS, new to Python,
 - Tools & Software: Word, PPP, Excel, Visual Stuido Code
 
 ## GitHub Stats
