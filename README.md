@@ -13,11 +13,11 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=melodingo&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=G3ntiLP&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melodingo&layout=compact&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G3ntiLP&layout=compact&theme=radical)
 
 <!---
 G3ntiLP/G3ntiLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
